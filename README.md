@@ -6,7 +6,6 @@ Um projeto de cardápio digital desenvolvido com HTML, CSS e JavaScript, focado 
 
 - HTML5
 - CSS3
-- JavaScript
 
 ## ✨ Funcionalidades
 
@@ -21,7 +20,8 @@ Adicione aqui uma imagem ou GIF do projeto.
 
 Exemplo:
 
-![Preview](./assets/preview.png)
+![Preview](<img width="1420" height="813" alt="Captura de tela 2026-06-25 204914" src="https://github.com/user-attachments/assets/78a34f63-f9b6-4c36-8430-f53d64fa5ab6" />
+)
 
 ## 📂 Como executar
 
