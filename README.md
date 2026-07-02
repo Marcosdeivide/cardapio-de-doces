@@ -14,15 +14,6 @@ Um projeto de cardápio digital desenvolvido com HTML, CSS e JavaScript, focado 
 - Design responsivo para diferentes dispositivos
 - Navegação simples e agradável
 
-## 📸 Preview
-
-Adicione aqui uma imagem ou GIF do projeto.
-
-Exemplo:
-
-![Preview](<img width="1420" height="813" alt="Captura de tela 2026-06-25 204914" src="https://github.com/user-attachments/assets/78a34f63-f9b6-4c36-8430-f53d64fa5ab6" />
-)
-
 ## 📂 Como executar
 
 1. Clone este repositório:
